@@ -1,6 +1,6 @@
 <!-- Encabezado Centrado y Profesional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=0a3d62&height=180&section=header&text=Jibran%20Rosas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Jibran Rosas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Jibran%20Rosas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Jibran Rosas" />
 </p>
 
 <p align="center">
