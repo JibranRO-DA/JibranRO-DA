@@ -1,4 +1,4 @@
-<!-- Encabezado Centrado y Profesional -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=180&section=header&text=Jibran%20Rosas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Jibran Rosas" />
 </p>
@@ -21,15 +21,38 @@
 
 ---
 
-### 👤 Sobre Mí
+## 👨‍💻 About Me
 
-Soy **Ingeniero Químico Industrial** egresado del **IPN - ESIQIE**, con una mentalidad analítica nativa enfocada en la optimización de procesos y la reingeniería de sistemas. He canalizado esta formación lógica hacia el **Análisis de Datos y Business Intelligence**, especializándome en automatización de flujos de información, desarrollo de KPIs estratégicos y arquitectura de datos para la toma de decisiones.
+Soy **Ingeniero Químico Industrial** egresado del **IPN - ESIQIE**, con una mentalidad analítica orientada a la optimización de procesos, automatización y mejora continua.
 
-Cuento con experiencia clave en los sectores financiero y operativo, manejando análisis de cobranza bancaria, mitigación de riesgos y optimización en la cadena de suministro (*Supply Chain*). Me apasiona diseñar pipelines ETL que transformen datos crudos o no estructurados en soluciones visuales ejecutivas de alto impacto.
+He enfocado esta formación hacia el **Data Analytics** y **Business Intelligence**, desarrollando soluciones basadas en datos para la toma de decisiones estratégicas.
+
+Tengo experiencia en sectores financieros y operativos, trabajando con:
+- análisis de cobranza bancaria
+- mitigación de riesgos
+- supply chain analytics
+- automatización de flujos de información
+- desarrollo de KPIs
+- diseño de pipelines ETL
+
+Me apasiona transformar datos crudos o no estructurados en información accionable mediante **Python, SQL, Power BI y procesos ETL**.
 
 ---
 
 ### 🛠️ Habilidades Técnicas
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-1E293B?style=for-the-badge"/>
+</p>
+
 
 <table width="100%">
   <tr>
