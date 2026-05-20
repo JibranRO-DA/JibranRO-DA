@@ -1,6 +1,6 @@
 <!-- Encabezado Centrado y Profesional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=waving&color=0a3d62&height=180&section=header&text=Jibran%20Rosas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Header Jibran Rosas" />
+  <img src="https://capsule-render.vercel.app/main?type=waving&color=0a3d62&height=180&section=header&text=Jibran%20Rosas&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Jibran Rosas" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👤 Sobre Mí
 
-Soy **Ingeniero Químico Industrial** egresado del **IPN - ESIQIE** (Alumno de Excelencia), con una mentalidad analítica nativa enfocada en la optimización de procesos y la reingeniería de sistemas. He canalizado esta formación lógica hacia el **Análisis de Datos y Business Intelligence**, especializándome en automatización de flujos de información, desarrollo de KPIs estratégicos y arquitectura de datos para la toma de decisiones corporativas.
+Soy **Ingeniero Químico Industrial** egresado del **IPN - ESIQIE**, con una mentalidad analítica nativa enfocada en la optimización de procesos y la reingeniería de sistemas. He canalizado esta formación lógica hacia el **Análisis de Datos y Business Intelligence**, especializándome en automatización de flujos de información, desarrollo de KPIs estratégicos y arquitectura de datos para la toma de decisiones.
 
 Cuento con experiencia clave en los sectores financiero y operativo, manejando análisis de cobranza bancaria, mitigación de riesgos y optimización en la cadena de suministro (*Supply Chain*). Me apasiona diseñar pipelines ETL que transformen datos crudos o no estructurados en soluciones visuales ejecutivas de alto impacto.
 
@@ -36,7 +36,7 @@ Cuento con experiencia clave en los sectores financiero y operativo, manejando a
     <td width="50%" valign="top">
       <h4>📊 Business Intelligence & Analytics</h4>
       <ul>
-        <li><strong>Power BI:</strong> Modelado de datos, arquitecturas en estrella, DAX y diseño de dashboards ejecutivos.</li>
+        <li><strong>Power BI:</strong> Modelado de datos, DAX y diseño de dashboards ejecutivos.</li>
         <li><strong>Excel Avanzado:</strong> Automatización de reportes, tablas dinámicas y desarrollo de herramientas de control.</li>
         <li><strong>Tableau:</strong> Creación de visualizaciones interactivas.</li>
       </ul>
@@ -51,32 +51,6 @@ Cuento con experiencia clave en los sectores financiero y operativo, manejando a
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Proyectos de Datos Destacados
-
-#### 🧪 [Pipeline ETL para Análisis Epidemiológico (ANVA)](https://github.com/JibranRO-DA)
-* **Descripción:** Diseño y desarrollo de un pipeline de datos *end-to-end* en Python encargado de la extracción, limpieza y estructuración de variables clínicas provenientes de documentos Word (.docx) no estructurados.
-* **Stack Tecnológico:** `Python (Pandas, NumPy, python-docx)`, `Power BI`.
-* **Impacto:** Consolidación automatizada de múltiples fuentes dispersas en un dataset único y modelado de un tablero dinámico en Power BI para el monitoreo inmediato de indicadores de salud y tendencias epidemiológicas.
-
-#### 📈 [Sistema de Análisis de Voz del Cliente (VoC) y Diagnóstico de Causa Raíz](https://github.com/JibranRO-DA) _(En Desarrollo)_
-* **Descripción:** Modelo analítico enfocado en unificar el histórico de más de 5,000 registros de encuestas de satisfacción (NPS, CSAT) y quejas operativas.
-* **Stack Tecnológico:** `SQL`, `Python (Pandas)`, `Power BI`.
-* **Impacto:** Implementación de análisis estadísticos y metodologías de mejora continua (Diagrama de Pareto) para categorizar texto no estructurado en pilares de calidad. Automatiza la entrega de reportes ejecutivos orientados a la Dirección General para mitigar la insatisfacción del cliente.
-
----
-
-### 💼 Trayectoria Profesional (Resumen)
-
-* **Analista de Datos en Cobranza Normativa** | *Grupo Con Su Pago* *(Jul 2024 – Sep 2025)*
-  * Reingeniería y automatización de flujos de información operativa, **reduciendo los tiempos de procesamiento en un 50%**.
-  * Diseño de estructuras de bases de datos para garantizar la calidad de la información financiera y desarrollo de dashboards en Excel para KPIs de recuperación de cartera.
-  *
-* **Comprador C / Supply Chain & Procurement Analyst** | *Turbo-Mex* *(Ago 2023 – Ene 2024)*
-  * Gestión y análisis logístico de compras internacionales de materiales técnicos con trazabilidad total.
-  * Monitoreo y modelado de KPIs para evaluar el cumplimiento de proveedores y optimización de costos operativos.
 
 ---
 
